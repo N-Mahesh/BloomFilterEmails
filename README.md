@@ -158,13 +158,6 @@ This project is ideal for:
 ## License
 
 This project is created for educational purposes. Feel free to use and modify for learning and teaching.
-
-## Acknowledgments
-
-- Developed as part of computer science coursework
-- Demonstrates practical applications of theoretical data structures
-- Sample data generated for educational use only
-
 ---
 
-*Note: This implementation uses compiled Java classes. For source code access or modifications, decompilation may be necessary or the original source files should be obtained.*
+*Note: This implementation uses compiled Java classes. For source code access or modifications, decompilation may be necessary.
